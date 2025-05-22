@@ -9,6 +9,7 @@
     "mongoose": "^8.15.0"
   },
   "scripts": {
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start": "node server.js" 
   }
 }
